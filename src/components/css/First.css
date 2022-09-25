@@ -1,0 +1,26 @@
+#profile-image {
+    width: 235px;
+    height: 235px;
+    border-radius: 50px;
+}
+#name {
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    color: #181818;
+    font-weight: 500;
+}
+.logo {
+    width: 40px;
+    height: 40px;
+}
+#resume-button {
+    border-radius: 10px;
+}
+#full-page {
+    width: 100vw;
+    height: 100vh;
+}
+.fat {
+    width: 50px;
+    height: 40px;
+}

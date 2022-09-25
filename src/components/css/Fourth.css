@@ -1,0 +1,28 @@
+.non {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+
+#light-grey {
+    background-color: #faf7f0;
+    width: 100vw;
+}
+#eth {
+    width: 200px;
+    height: 200px;
+}
+
+#natwest {
+    width: 150px;
+    height: 210px;
+}
+
+#gcp {
+    width: 160px;
+    height: 170px;
+}

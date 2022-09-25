@@ -1,0 +1,14 @@
+.light-grey {
+  background-color: #f3f2f1;
+  width: 100vw;
+}
+.full-page {
+  width: 100vw;
+  height: 100vh;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}

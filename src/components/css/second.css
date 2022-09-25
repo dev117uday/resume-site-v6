@@ -1,0 +1,28 @@
+
+#one {
+    border-radius: 20px 0 0 0;
+}
+#two {
+    border-radius: 0 20px 0 0;
+}
+#four {
+    border-radius: 0 0 0 20px;
+}
+#three {
+    border-radius: 0 0 20px 0;
+}
+
+.symbols {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 130px;
+    height: 130px;
+}
+.short-dis-c {
+    font-family: "Robota", sans-serif;
+    color: wheat;
+}
+.short-dis-d {
+    font-family: "Robota", sans-serif;
+    color: black;
+}

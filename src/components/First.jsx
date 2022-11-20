@@ -21,7 +21,7 @@ function TopNavBar() {
 	let gce = "https://githubcampus.expert/dev117uday/"
 	let medium = "https://dev.to/dev117uday"
 	let outlook = "mailto:yadav117uday@outlook.com"
-	let resume = "https://drive.google.com/drive/folders/1LpG4_lSmu-0o8s8ElgpoBHj52q2FZTzW?usp=sharing"
+	let resume = "https://drive.google.com/drive/folders/1W1WOAu09_qRq8D07T6yvHMDp234dyhu0?usp=share_link"
 
 	return (
 		<div className="container mt-4 full-page">

@@ -8,7 +8,7 @@ import iazure from "../images/icon/azure.webp"
 // import idq from "../images/icon/no_circuit_dark_blue.webp"
 
 function Fifth() {
-    let eyantra = "https://drive.google.com/file/d/1IeaL1nf6xm-MlEUFcPvCTSP7aedutkAB/view?usp=sharing";
+    let eyantra = "https://drive.google.com/file/d/1Vra-qJ8HcGi_wR6qCMf1Sc-gdqXGUoqw/view?usp=sharing";
     let azureDev = "https://dev.to/devteam/microsoft-azure-trial-hackathon-winners-announced-1kkm#:~:text=powerfuldevs%20%23azure%20%23beginners-,Java%20Jackpot,-%3A%20%40dev117uday"
 
     return (
@@ -133,13 +133,9 @@ function Fifth() {
                                         />
                                     </div>
                                     <h4 className="ach-title">Github Campus Expert</h4>
-                                    <a
-                                        target="_blank"
-                                        href="https://dsc-adgitm.web.app/"
-                                        rel="noreferrer"
-                                    >
-                                        <h5>ADGITM</h5>
-                                    </a>
+
+                                    <h5>ADGITM</h5>
+
                                     <p>Oct '21 - Present</p>
                                     <p>
                                         Building and supporting communities, hosting events, workshops and trainings
@@ -157,13 +153,9 @@ function Fifth() {
                                         />
                                     </div>
                                     <h4 className="ach-title">Cloud Facilitator</h4>
-                                    <a
-                                        target="_blank"
-                                        href="https://dsc-adgitm.web.app/"
-                                        rel="noreferrer"
-                                    >
-                                        <h5>GDSC ADGITM</h5>
-                                    </a>
+
+                                    <h5>GDSC ADGITM</h5>
+
                                     <p>Oct '21 - Nov '21</p>
                                     <p>
                                         Managed and Organized 30 days of Google Cloud Platform for ADGITM
@@ -180,13 +172,9 @@ function Fifth() {
                                         />
                                     </div>
                                     <h4 className="ach-title">Web Lead & Core Team</h4>
-                                    <a
-                                        target="_blank"
-                                        href="https://dsc-adgitm.web.app/"
-                                        rel="noreferrer"
-                                    >
-                                        <h5>GDSC ADGITM</h5>
-                                    </a>
+
+                                    <h5>GDSC ADGITM</h5>
+
                                     <p>Sept '20 - Preset</p>
                                     <p>
                                         Responsibility to manage web operations at

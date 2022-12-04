@@ -292,8 +292,8 @@ function Seventh() {
                                                     alt="cloud"
                                                     className="prog-icon"
                                                 />
-                                                <br /><button className='btn btn-outline-primary mt-1' data-bs-toggle="modal" data-bs-target="#gcp">GCP</button>
-                                                <div className="modal fade" id="gcp" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="gcpLabel" aria-hidden="true">
+                                                <br /><button className='btn btn-outline-primary mt-1'>Google Cloud</button>
+                                                {/* <div className="modal fade" id="gcp" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1" aria-labelledby="gcpLabel" aria-hidden="true">
                                                     <div className="modal-dialog">
                                                         <div className="modal-content">
                                                             <div className="modal-header">
@@ -311,7 +311,7 @@ function Seventh() {
                                                             </div>
                                                         </div>
                                                     </div>
-                                                </div>
+                                                </div> */}
                                             </div>
                                         </div>
                                     </center>

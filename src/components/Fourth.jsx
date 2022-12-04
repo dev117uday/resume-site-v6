@@ -34,13 +34,9 @@ function Fourth() {
                                             2023
                                         </h6>
                                         <ul>
-                                            <li>
-                                                Working with Java micro-services and migrating them to AWS
-                                            </li>
-                                            <li>
-                                                Still Figuring out ...
-                                            </li>
-
+                                            <li>Apart of TMS (Treasury Management System) team.</li>
+                                            <li>Involved in Reflatforming Infrastructure, Adapting to EU regulations.</li>
+                                            <li>Tech Stack : Java, Spring Boot, Apache Camel, Oracle SQL</li>
                                         </ul>
                                     </div>
                                 </div>

@@ -30,7 +30,7 @@ function Fourth() {
                                             Natwest Group (erstwhile  Royal Bank of Scotland)
                                         </h6>
                                         <h6 className="text-muted">
-                                            18<sup>st</sup> Aug '22 - 23<sup>th</sup> Feb
+                                            18<sup>st</sup> Aug '22 - 17<sup>th</sup> Feb
                                             2023
                                         </h6>
                                         <ul>

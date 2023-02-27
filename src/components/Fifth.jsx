@@ -175,7 +175,7 @@ function Fifth() {
 
                                     <h5>GDSC ADGITM</h5>
 
-                                    <p>Sept '20 - Preset</p>
+                                    <p>Sept '20 - July '21</p>
                                     <p>
                                         Responsibility to manage web operations at
                                         Google Developer Student Clubs ADGITM

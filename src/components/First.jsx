@@ -12,9 +12,9 @@ import igmail from '../images/icon/Gmail.webp'
 function TopNavBar() {
 
 	let name = "Uday Yadav"
-	let title = "SWE Intern @Natwest Group (erstwhile Royal Bank of Scotland)"
-	let title1 = "Github Campus Expert 🚩 | Google CSB'22"
-	let title2 = "Ex-ETH India Fellow 2.0 | Final Year CSE"
+	let title = "Final Year CSE | Ex-SWE Intern @Natwest Group"
+	let title1 = "Github Campus Expert 🚩"
+	let title2 = ""
 	let github = "https://github.com/dev117uday"
 	let linkedin = "https://www.linkedin.com/in/uday-yadav-cs/"
 	let twitter = "https://twitter.com/yadav117uday"

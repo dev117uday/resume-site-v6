@@ -1,6 +1,7 @@
 import React from 'react'
 import iryan from "../images/icon/ryan.jpg"
 import iggsipu from "../images/icon/ggsipu.webp"
+import imit from "../images/icon/mit.jpg"
 import './css/Third.css'
 
 function Third() {
@@ -13,7 +14,7 @@ function Third() {
 					<br />
 					<div className="container">
 						<div className="row">
-							<div className="col-sm-6">
+							<div className="col-lg-4">
 								<p id="high-school" className="non">High School</p>
 								<img
 									decode="async"
@@ -28,16 +29,27 @@ function Third() {
 								</p>
 								<p>Ryan International School, Mayur Vihar</p>
 							</div>
-							<div className="col-sm-6">
+							<div className="col-lg-4">
 								<p id="high-school" className="non">Graduation</p>
 								<img
 									decode="async"
 									id="ggsipu"
 									src={iggsipu}
-									alt="Ryan International School"
+									alt="Btech degree"
 								/>
 								<p className="non">B.tech Computer Science Engineering</p>
-								<p>ADGITM affiliated to GGSIPU</p>
+								<p>GGSIPU</p>
+							</div>
+							<div className="col-lg-4">
+								<p id="high-school" className="non">Post Graduation</p>
+								<img
+									decode="async"
+									id="mit"
+									src={imit}
+									alt="MIT Manipal"
+								/>
+								<p className="non">M.tech Computer Science Engineering</p>
+								<p>MIT Manipal</p>
 							</div>
 						</div>
 					</div>

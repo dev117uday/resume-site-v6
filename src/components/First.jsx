@@ -12,19 +12,19 @@ import igmail from '../images/icon/Gmail.webp'
 function TopNavBar() {
 
 	let name = "Uday Yadav"
-	let title = "Final Year CSE | Ex-SWE Intern @Natwest Group"
-	let title1 = "Github Campus Expert 🚩"
+	let title = "MTS Intern @NetApp"
+	let title1 = "Mtech CSE MIT Manipal"
 	let title2 = ""
 	let github = "https://github.com/dev117uday"
 	let linkedin = "https://www.linkedin.com/in/uday-yadav-cs/"
 	let twitter = "https://twitter.com/yadav117uday"
 	let gce = "https://githubcampus.expert/dev117uday/"
 	let medium = "https://dev.to/dev117uday"
-	let outlook = "mailto:yadav117uday@outlook.com"
+	let outlook = "mailto:yadav117uday@gmail.com"
 	let resume = "https://drive.google.com/drive/folders/1W1WOAu09_qRq8D07T6yvHMDp234dyhu0?usp=share_link"
 
 	return (
-		<div className="container mt-4 full-page">
+		<div className="container mt-4">
 			<center>
 				<img
 					decode="async"

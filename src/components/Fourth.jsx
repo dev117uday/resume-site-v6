@@ -2,6 +2,7 @@ import React from 'react'
 import ieth from "../images/icon/eth-icon.webp"
 import inatwest from "../images/icon/natwest.webp"
 import igcp from "../images/icon/gcp.webp"
+import inetapp from "../images/icon/netapp.png"
 import './css/Fourth.css'
 
 function Fourth() {
@@ -19,6 +20,31 @@ function Fourth() {
                                     <div className="col-sm-4">
                                         <img
                                             decode="async"
+                                            src={inetapp}
+                                            id="netapp"
+                                            alt="natwest"
+                                        />
+                                    </div>
+                                    <div className="col-sm-8 text-start">
+                                        <h4>Member of Technical Staff - Intern</h4>
+                                        <h6>
+                                            NetApp
+                                        </h6>
+                                        <h6 className="text-muted">
+                                            18<sup>th</sup> June 
+                                            2024
+                                        </h6>
+                                        <ul>
+                                            <li>To be announced</li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                                <br/>
+                                <div className="row">
+                                    <div className="col-sm-4">
+                                        <img
+                                            decode="async"
                                             src={inatwest}
                                             id="natwest"
                                             alt="natwest"
@@ -30,7 +56,7 @@ function Fourth() {
                                             Natwest Group (erstwhile  Royal Bank of Scotland)
                                         </h6>
                                         <h6 className="text-muted">
-                                            18<sup>st</sup> Aug '22 - 17<sup>th</sup> Feb
+                                            18<sup>th</sup> Aug '22 - 17<sup>th</sup> Feb
                                             2023
                                         </h6>
                                         <ul>
@@ -106,7 +132,7 @@ function Fourth() {
                                             Organized By : Google
                                         </h6>
                                         <h6 className="text-muted">
-                                            21<sup>st</sup> June - 16<sup>th</sup> July
+                                            21<sup>th</sup> June - 16<sup>th</sup> July
                                             2022
                                         </h6>
                                         <ul>

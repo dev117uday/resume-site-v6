@@ -9,10 +9,10 @@ import './css/second.css'
 function Second() {
 
 	let aboutMe = "Hello! I'm Uday Yadav, currently an intern at NetApp as a Member of Technical Staff (MTS)."
-	let aboutMe2 = "I hold a Master's degree in Computer Science and Engineering from MIT Manipal, and a Bachelor's degree in the same field from Guru Gobind Singh Indraprastha University (GGSIPU)."
-	let aboutMe3 = "Before, I interned at the NatWest Group, where I gained valuable experience in the financial technology sector. Additionally, I had the privilege of volunteering as a GitHub Campus Expert, helping students and developers collaborate on projects."
-	let aboutMe4 = "I also served as the Web Team Lead at Google Developer Student Clubs (GDSC), where I led initiatives to enhance web development skills among students. As a quick learner, I'm passionate about diving deep into various aspects of technology."
-	let aboutMe5 = " My interests include backend development, operating systems, database management, and cloud computing. I enjoy tackling challenging problems and continuously expanding my knowledge in these areas."
+	let aboutMe2 = "I hold Mtech in CSE from MIT Manipal, and Btech in CSE from Guru Gobind Singh Indraprastha University (GGSIPU)."
+	let aboutMe3 = "Before, I interned at the NatWest Group, where I gained valuable experience in the financial technology sector. Additionally, I volunteered as a GitHub Campus Expert"
+	let aboutMe4 = "I also served as the Web Team Lead at Google Developer Student Clubs (GDSC), where I led initiatives to enhance web development skills among students."
+	let aboutMe5 = "Quick learner with interest in backend development, operating systems, database and cloud computing. I enjoy tackling challenging problems and continuously expanding my knowledge in these areas."
 	let A = "SQL | Mongo | Redis"
 	let B = "C/C++"
 	let C = "Golang"

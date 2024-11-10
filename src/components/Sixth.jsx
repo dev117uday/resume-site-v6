@@ -11,95 +11,22 @@ function Sixth() {
                             <center>
                                 <br />
                                 <h3>Find My Writings</h3>
+                                <div className="col-sm-4">
+                                    <a
+                                        target="_blank"
+                                        href="https://dev117uday.github.io/notebook/"
+                                        rel="noreferrer"
+                                    >
+                                        <button
+                                            className="btn btn-primary"
+                                            id="article-button"
+                                        >
+                                            My Notebook
+                                        </button>
+                                    </a>
+                                </div>
                                 <br />
                             </center>
-                            <div className="row">
-                                <div className="col-sm-4">
-                                    <a
-                                        target="_blank"
-                                        href="https://dev117uday.github.io/codeblog/"
-                                        rel="noreferrer"
-                                    >
-                                        <button
-                                            className="btn btn-primary"
-                                            id="article-button"
-                                        >
-                                            Codeblog.md
-                                        </button>
-                                        <br />
-                                        <br />
-                                    </a>
-                                </div>
-
-                                <div className="col-sm-4">
-                                    <a
-                                        target="_blank"
-                                        href="https://dev117uday.gitbook.io/databases/"
-                                        rel="noreferrer"
-                                    >
-                                        <button
-                                            className="btn btn-primary"
-                                            id="article-button"
-                                        >
-                                            Learning Database
-                                        </button>
-                                        <br />
-                                        <br />
-                                    </a>
-                                </div>
-
-                                <div className="col-sm-4">
-                                    <a
-                                        target="_blank"
-                                        href="https://dev117uday.gitbook.io/notes-md/"
-                                        rel="noreferrer"
-                                    >
-                                        <button
-                                            className="btn btn-primary"
-                                            id="article-button"
-                                        >
-                                            Notes.md
-                                        </button>
-                                        <br />
-                                        <br />
-                                    </a>
-                                </div>
-                            </div>
-                            <div className="row">
-                                <div className="col-sm-4">
-                                    <a
-                                        target="_blank"
-                                        href="https://dev117uday.gitbook.io/data-structure-and-algorithms/"
-                                        rel="noreferrer"
-                                    >
-                                        <button
-                                            className="btn btn-primary"
-                                            id="article-button"
-                                        >
-                                            DSA.md
-                                        </button>
-                                        <br />
-                                        <br />
-                                    </a>
-                                </div>
-                                
-                                <div className="col-sm-4">
-                                    <a
-                                        target="_blank"
-                                        href="https://github.com/dev117uday/timeline"
-                                        rel="noreferrer"
-                                    >
-                                        <button
-                                            className="btn btn-primary"
-                                            id="article-button"
-                                        >
-                                            Things I Tried
-                                        </button>
-                                        <br />
-                                        <br />
-                                    </a>
-                                </div>
-                            </div>
                         </div>
                     </center>
                     <br />

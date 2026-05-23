@@ -12,7 +12,7 @@ import igmail from '../images/icon/Gmail.webp'
 function TopNavBar() {
 
 	let name = "Uday Yadav"
-	let title = "MTS Intern @NetApp"
+	let title = "Software Engineer 2 @NetApp"
 	let title1 = "Mtech CSE MIT Manipal"
 	let title2 = ""
 	let github = "https://github.com/dev117uday"
